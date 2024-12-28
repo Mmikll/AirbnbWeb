@@ -1,0 +1,25 @@
+{
+  "name": "airbnbweb",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000A\u0000i\u0000r\u0000b\u0000n\u0000b\u0000W\u0000e\u0000b\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mmikll/AirbnbWeb.git"
+  },
+  "author": "Miguel Miranda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mmikll/AirbnbWeb/issues"
+  },
+  "homepage": "https://github.com/Mmikll/AirbnbWeb#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.37.5"
+  }
+}

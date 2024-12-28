@@ -1,0 +1,19 @@
+@use '../base/mixins' as m;
+@use '../base/variables' as v;
+
+.destino{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    justify-content: space-evenly;
+
+    &__imagen{
+        width: 14rem;
+    }
+
+    &__distancia,
+    &__nombre {
+        margin: 0;
+    }
+
+}
